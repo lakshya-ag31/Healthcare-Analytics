@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Healthcare Analytics & Hospital Performance Dashboard
 
 ## 📌 Project Overview
@@ -75,7 +74,7 @@ The dataset contains information related to:
 -   **Matplotlib**
 -   **Seaborn**
 -   **Jupyter Notebook**
--   **Power BI / Dashboarding**
+-   **Google Looker Studio / Dashboarding**
 
 ------------------------------------------------------------------------
 
@@ -382,13 +381,13 @@ Potential extensions include:
 
 ## 👤 Author
 
-**Yash Verma**
+**Lakshya Agarwal**
 
-B.Tech --- Artificial Intelligence & Machine Learning
+B.Tech --- Computer Science
 
-GitHub: `https://github.com/hey-its-yash`
+GitHub: `https://github.com/lakshya-ag31`
 
-LinkedIn: `https://www.linkedin.com/in/yash-verma-b0308728a/`
+LinkedIn: `https://www.linkedin.com/in/lakshya-agarwal-514b1a2a7/`
 
 ------------------------------------------------------------------------
 
@@ -422,4 +421,3 @@ Recommendations
 ```
 =======
 # Healthcare-Analysis-
->>>>>>> cce0cf9d74e1ffd353caa993aa31d40d804b91ca
